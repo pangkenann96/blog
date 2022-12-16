@@ -1,0 +1,73 @@
+User story:
+    - want low variance, effective teams
+        "High variance is a symptom of an ineffective team"
+        Link: soccer. "The team is only as strong as the weakest link" -> are managers effectively soccer coaches trying to assemble the winning team? Yea....
+    - 
+
+---
+Useful summaries:
+    - https://www.happybrainscience.com/blog/book-summary-review-smarter-faster-better-the-transforative-power-of-real-productivity-by-charles-duhigg/ 
+    - https://dansilvestre.com/smarter-faster-better-summary/
+
+---
+To do:
+    - "upon reflecting, I realised that the intent of this summary was to invite the recipient to pick up the book and read it, not actually give it to them on a silver platter. Then the MVP is not a handwritten summary, but A summary, which we already have above."
+     -> Rephrase chap 2 from above first link. Send to recipient (paper/ slack/ etc)
+---
+Chapter 2: teams
+[pg 38]
+- female MBA team feel on eggshells. Keep to themselves. CCA team feel belonging. Contribution.
+    "...group in yale... felt draining because the norms - the tussles over leadership, the pressure to constantly demonstrate expertise, the tendency to critique - had put her on guard. In contrast, the norms of her case competition team-enthusiasm for one another's ideas, withholding criticisms, encouraging people to take leadership role or hang back as they wanted- allowed everyone to be friendly (accepted) and unconstrained. Coordination was easy."
+    Link: Simon Sinek. story on same waiter at caesar palace vs?? 
+    behavior-1 = {
+        "tussle over leadership",
+        "pressure constantly demonstrate expertise",
+        "tendency to critique"
+    }
+    behavior-2 = {
+        "enthusiasm one another's ideas",
+        "withhold criticisms",
+        "encouraging people to take leadership role or hang back as they wanted"
+    }
+    team-norm = (behavior) => {
+        if (behavior = behavior-1) {
+            return 'on guard'
+        }
+        else if (behavior = behavior-2) {
+            return 'accepted and unconstrained'
+        }
+    }
+    team-outcome = (team-norm) => {
+        if (team-norm = 'on guard'){
+            return 'draining';
+        };
+        else if (team-norm = 'accepted and unconstrained'){
+            return 'coordinated';
+        };
+    } 
+- Google, people analytics, project Oxygen!
+    "With enough data, almost any behavioural puzzle could be solved"
+        4W.KJ
+    "My manager isn't fantastic, but the team is so strong it doesn't matter"
+        Power of teams. Not just leadership.
+    "The literature was all over the place"
+        - extroversion all same vs blend? not-conclusive
+        - personality/ hobbies/ experience/ race/ gender similar vs diverse? not-conclusive
+        - collaborative vs healthy rivalry? not-conclusive
+        - hierachal vs flat structure? not-conclusive
+        - strangers at start vs friends before this? not-conclusive
+
+        "No matter how they arranged the data... it was almost impossible to find patterns... The 'who' part of the equation didn't seem to matter"
+        "Most confounding... sometimes two teams would have nearly identical compositions... but radically different levels of effectiveness"
+    "...often, inside a group, there's a set of norms that override (personal) preferences and encourage deference to the team."
+        Group norms powerful force in teams
+        "When a team comes to an unspoken consensus...that's a norm asserting itself."
+    "Data... finally... make sense... We had to manage the 'how' of teams, not the 'who' "
+[kiv pg 46]
+- PhD studies hospital. Good teamwork = good healthcare?
+    ""
+        - Strong teams have higher absolute error reportings. seems bad. but they don't lie. they don't cover up. they don't withhold information. 
+            - Higher bugs reported is indication of open, trusting, and hence performing team, NOT incompetency. Counter-intuitive.
+    "Have established a climate of openness that faciliate discussion of error, which is likely to be an important influence on detected error rates" - The journal of applied behavioural science 1996, Edmondson
+        - leader sets the culture whether punitive or nonpunitive environment -> affects openness on errors and mistakes
+[kiv pg 50]

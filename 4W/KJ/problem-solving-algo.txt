@@ -1,0 +1,32 @@
+problem statement:
+    - currently a foodpanda software engineer trainee
+    - goal: to learn in 6 months what CS uni students learn in 4 years
+        - goal behind goal: see how much a human can compress learning
+    - situation: neccesitated by time constraint x lack of intuition to accelerate learning
+
+proposed solution: systemise learning process (algorithmise approach, iterate the model as we go)
+
+iteration cycles:
+1.0 (Naive approach)
+    1. just do it, make code that works
+    2. "Bugs? nah, that won't happen to me... right?"
+1.1 (case study: 10hr coding session on 1 exercise)
+    - "... yea, no. Bugs. You'll face them. many, many, many of them." -> "aw, damn."
+    - personal realisation: "how am I overcoming my bugs? how many hours of banging my head on the wall do I want? How come others just 'get it,' and I'm still struggling? find the reason and iterate. need an algo for when your code repeatedly fails. Some fallback mechanism." 
+        - "Insanity is doing the same thing over expecting a different result" - albert einstein
+        - "... I was probably insane."
+    Method:
+    1. meet a bug
+    2. google the error message
+    3. click the first 3 links recommended by google
+    4. voodoo code? black magic code? nvm, just copy
+    5. If it work, it works. Move on (don't worry about the problems down the road. lol)
+
+    New method:
+
+dang. did not log time of above. estimate around Nov 2022..
+
+20221216
+Obs: faced the same issue above time and time again. No fun. How long more? Vital to take a good look into it.
+
+

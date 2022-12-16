@@ -1,0 +1,24 @@
+source: 
+
+1. condense information by 80-20
+    - Most explanation paragraphs actually bear no meaning.
+    They do not aid in understanding
+    Much is filler
+    Our job is to find the keywords that do have meaning
+    Then filter them out
+    Leaving the rest out
+    And we find that it tends to follow the 80-20 principle
+    Where 80 percent of the text bears no meaning
+    and 20 percent contains all the information
+    -> Let's try the exercise
+
+    - []
+
+    move 1:
+        - use ML to 80-20
+            - tensorflow
+        -[discover]-> transformers (google event AI ML) 
+            -[discover]-> automatic summarizer
+                https://en.wikipedia.org/wiki/Automatic_summarization
+                - 80-20 = {text, pics, vids}
+                    Cool!!

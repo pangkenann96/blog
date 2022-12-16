@@ -1,0 +1,13 @@
+
+
+speakers:
+    - Thu Ya Kyaw (dev advom ai ml g cloud)
+        -> linkein for digestable AI/ML
+    - Janise Tan (SEA regional lead g dev ecosystem)
+
+    goo.gle/dev-online
+
+
+1. 
+    transformers - sounds like what I'm looking for
+        "you have so many words.. how to handle.."

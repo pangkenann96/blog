@@ -1,0 +1,19 @@
+source: '13 life lessons' by Alex Horzomi (youtube)
+Main takeaways:
+    - 'It is much better to read a good book 5 times than it is to read 5 books'
+    - 'ultimately, the person who earns more is the person who has a better model of reality'
+        - 'I will pay to have obvious truths be made real to me'
+Application:
+    - proc model for RB (since quote literally talks about books)
+        if a good book is worth more than 5 books, then I should be really selective of the books that make it into my reading time.
+        Right now I have a flurry of books, stored on the cloud
+        But from what I learnt here:
+            1. Having books (knowledge) not equals to success. Executed knowledge does (Tony robbins). Further, domain expertise also important (personal lesson).
+                Execution times qualified knowledge equals success (X x QK = S)
+            2. That 80-20 really applies too to qualified knowledge. That it is perhaps equally important, if not more, to consider the source of the knowledge (ie. book) before engaging in the content. And that content from a true authority is rare.
+                Also why a successful man need not have read alot of books to be successful.
+                Or rather, it is not the reading of many books that leads to one's success - it is the reading of many books to figure out the rare few that actually help, and in finding/ reading those rare few books that leads to one's success.
+            1 + 2: read many books, to find the right book (QK), to execute (X), to succeed.
+                QK = f(RB), S = g(QK, X). Therefore, **S = g(f(RB), x), where f(RB) = QK and f contains a power law**
+
+            futher application: books can extend to living breathing humans too. talking about friends, family, employees, etc.

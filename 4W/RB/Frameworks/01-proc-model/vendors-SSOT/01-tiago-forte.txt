@@ -1,0 +1,11 @@
+source: youtube
+background: media, then curriculum designer, then consultant SME startup
+initial credibility rating: B
+consider moving forward? Yes. Lack of other materials in "building a second brain"
+___
+CODE ->
+    C: Capture
+    O: Organise
+    D: Distill
+    E: Express
+
